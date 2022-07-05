@@ -26,7 +26,7 @@ Hi, I am a Software Developer with extensive years of experience in developing a
 
 - :zap: In my free time, I solve problems on Data Structure and Algorithms on Leetcodes.
 
-- :mailbox:You can reach out to me via LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anaelennaemeka/)
+- :mailbox:You can reach out to me via LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Aneal250-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anaelennaemeka/)
 
 ---
 
