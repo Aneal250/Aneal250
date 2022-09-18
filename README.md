@@ -18,13 +18,17 @@
 
 ### :man_technologist: About Me :
 
-Hi, I am Aneal, a software Developer, am currently and continuosily working extensively on web applications. After majoring in computer Engineering in my first-Degree program, I have worked for a few start-ups and organisations as a software developer (Full Stack Developer). I found myself specializing on front-end software development despite being a MERN Stack Developer, utilizing software technologies like HTML, CSS, Javascript, TypeScript, React, Nextjs, VueJs NodesJs ExpressJS, Mongodb and may others, to develop and build interactive and cutting-edge web technologies. I decompose complex problems into logic and scalable UI components using JavaScript and Typescript frameworks to build modern web applications. I am looking forward and willing to expand my horizons and capacity as a software developer by taking up new and challenging roles in frontend development. :smiley:
+Hi, I am Aneal, a software Developer, am currently and continuosily working extensively on modern web applications. After majoring in computer Engineering in my first-Degree program, I have worked for a few start-ups and organisations as a software developer (Full Stack Developer). I find myself loving Front-end software development despite being a MERN Stack Developer, utilizing software technologies like HTML, CSS, Javascript, TypeScript, React, Nextjs, VueJs NodesJs ExpressJS, Mongodb and may others, to develop and build interactive and cutting-edge web technologies. I decompose complex problems into logic and scalable UI components using JavaScript and Typescript frameworks to build modern web applications. I am looking forward and willing to expand my horizons and capacity as a software developer by taking up new and challenging roles in frontend development. :smiley:
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: MERN Stack Developer.
 
-- :seedling: Exploring Technical Content Writing.
+- :office: Good Collaboration and Communication Skills
 
-- :zap: In my free time, I solve problems on Data Structure and Algorithms on Leetcodes.
+- :computer: Innovative and Fast Learning Skills
+
+- :medal_sports: Soccer | :soccer:
+
+- :zap: In my free time, I solve problems on Data Structure and Algorithms.
 
 - :mailbox:You can reach out to me via LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Aneal250-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anaelennaemeka/)
 
