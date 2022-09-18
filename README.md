@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-Hi, I am a Software Developer with extensive years of experience in developing and building interactive web applications using software Technologies such as HTML, CSS, JavaScript, React, Redux, Nextjs, NodeJs, ExpressJs, CMS and MongoDB. I decompose complex problems into logic and scalable UI components using JavaScript and TypeScript frameworks to build cutting edge Web Applications.
+Hi, I am Aneal, a software Developer, am currently and continuosily working extensively on web applications. After majoring in computer Engineering in my first-Degree program, I have worked for a few start-ups and organisations as a software developer (Full Stack Developer). I found myself specializing on front-end software development despite being a MERN Stack Developer, utilizing software technologies like HTML, CSS, Javascript, TypeScript, React, Nextjs, VueJs NodesJs ExpressJS, Mongodb and may others, to develop and build interactive and cutting-edge web technologies. I decompose complex problems into logic and scalable UI components using JavaScript and Typescript frameworks to build modern web applications. I am looking forward and willing to expand my horizons and capacity as a software developer by taking up new and challenging roles in frontend development. :smiley:
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -55,6 +55,3 @@ Hi, I am a Software Developer with extensive years of experience in developing a
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aneal250&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal250&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
