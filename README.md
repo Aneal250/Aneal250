@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-Hi, I am Aneal, a software Developer, am currently and continuosily working extensively on modern web applications. After majoring in computer Engineering in my first-Degree program, I have worked for a few start-ups and organisations as a software developer (Full Stack Developer). I find myself loving Front-end software development despite being a MERN Stack Developer, utilizing software technologies like HTML, CSS, Javascript, TypeScript, React, Nextjs, VueJs NodesJs ExpressJS, Mongodb and may others, to develop and build interactive and cutting-edge web technologies. I decompose complex problems into logic and scalable UI components using JavaScript and Typescript frameworks to build modern web applications. I am looking forward and willing to expand my horizons and capacity as a software developer by taking up new and challenging roles in frontend development. :smiley:
+Hi, I am a Software Engineer with extensive years of experience in developing and building interactive web applications using software Technologies such as HTML, CSS, JavaScript, React, Redux, Nextjs, NodeJs, ExpressJs, CMS and MongoDB. I decompose complex problems into logic and scalable UI components using JavaScript and TypeScript frameworks to build cutting edge Web Applications. :smiley:
 
 - :telescope: MERN Stack Developer.
 
