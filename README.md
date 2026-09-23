@@ -19,11 +19,9 @@
 ### :man_technologist: About Me :
 
 
-🚀 Hi, I’m a solution-oriented Full Stack Engineer passionate about building impactful, scalable, and user-friendly web applications. With expertise in **HTML, CSS, JavaScript, and TypeScript**, I craft seamless digital experiences using modern frameworks like **React.js, Next.js, Vue.js, Node.js, and NestJS**. I specialize in delivering full-featured applications with clean architecture and robust backend logic, leveraging cloud platforms such as **AWS, Azure, and Google Cloud**.
-
-I hold a B.Eng in Computer Engineering, blending strong academic foundations with industry-proven skills. I’ve successfully led engineering initiatives at global companies, consistently delivering high-performance applications and mentoring cross-functional teams.
-
-I’m committed to continuous learning and thrive in dynamic environments where innovative solutions solve real-world challenges.
+🚀 Hi,  I'm a results-driven Senior Software Engineer with a strong track record in architecting, leading, and deploying highly scalable, resilient, and user-focused systems. I excel across the Full-Stack from distributed Microservices to modern Frontend platforms delivering solutions that drive measurable business outcomes.
+With polyglot proficiency, I build and optimise systems using Python and Node.js/NestJS, and craft seamless user experiences with JavaScript/TypeScript and frameworks like React, Next.js, Angular and Vue.js. My expertise extends to cloud-native deployments, performance engineering, and secure, fault-tolerant architectures on AWS, Azure, and Google Cloud.
+Backed by a B.Eng in Computer Engineering, I’ve led major engineering initiatives for global teams, mentored developers, defined technical standards, and translated complex requirements into scalable, elegant solutions. I’m driven by innovation, engineering excellence, and delivering applications that solve real-world problems at scale.
 
 ---
 
