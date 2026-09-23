@@ -42,15 +42,6 @@ Recently, I’ve worked on AI meeting features for transcription, summaries, tra
 - Improved SEO performance by **50%** and reduced deployment time by **30%** through Docker containerization.
 - Built and maintained services contributing to approximately **99.8% uptime**.
 
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aneal250&show_icons=true&hide_title=true&include_all_commits=true&theme=transparent" alt="GitHub profile statistics for Aneal250" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal250&layout=compact&theme=transparent" alt="Most used programming languages for Aneal250" />
-
-</div>
-
 ## Connect
 
 I’m open to conversations about full-stack engineering, AI applications, and cloud-native systems.
