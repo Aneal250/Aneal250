@@ -1,99 +1,60 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    <div id="badges">
-    <a href="https://www.linkedin.com/in/anaelennaemeka/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://twitter.com/Aneal250">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    </div>
-    <img src="https://komarev.com/ghpvc/?username=Aneal250&style=flat-square&color=blue" alt=""/>
+<div align="center">
+
+# Anaele Nnaemeka
+
+### Senior Full-Stack Engineer · AI/LLM Applications · Cloud & DevOps
+
+I build reliable web products and AI-powered workflows, from user-facing interfaces to APIs, data systems, and cloud deployments.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaelennaemeka/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anaelennaemeka@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-222222?style=flat&logo=google-chrome&logoColor=white)](https://www.nnaemekaanaele.me/)
+
 </div>
 
 ---
 
-### :man_technologist: About Me :
+## About
 
+I’m a senior software engineer with 7+ years of experience building full-stack applications and production systems. My work spans frontend engineering, backend services, cloud infrastructure, and applied AI.
 
-🚀 Hi,  I'm a results-driven Senior Software Engineer with a strong track record in architecting, leading, and deploying highly scalable, resilient, and user-focused systems. I excel across the Full-Stack from distributed Microservices to modern Frontend platforms delivering solutions that drive measurable business outcomes.
-With polyglot proficiency, I build and optimise systems using Python and Node.js/NestJS, and craft seamless user experiences with JavaScript/TypeScript and frameworks like React, Next.js, Angular and Vue.js. My expertise extends to cloud-native deployments, performance engineering, and secure, fault-tolerant architectures on AWS, Azure, and Google Cloud.
-Backed by a B.Eng in Computer Engineering, I’ve led major engineering initiatives for global teams, mentored developers, defined technical standards, and translated complex requirements into scalable, elegant solutions. I’m driven by innovation, engineering excellence, and delivering applications that solve real-world problems at scale.
+Recently, I’ve worked on AI meeting features for transcription, summaries, translation, document generation, and knowledge retrieval, as well as an agent-assisted API testing workflow. I enjoy making complex systems practical, secure, observable, and easier for teams to maintain.
 
----
+## What I work with
 
-<!-- optimize this  -->
-change the icon and the flex things as well
-The Header title and others as well 
-and the structure as well
-### 🚀 Tech Stack & Skills
+- **Frontend:** React, Next.js, Vue, Nuxt, TypeScript, JavaScript, Storybook
+- **Backend:** Node.js, Express, NestJS, Python, FastAPI, Django, REST, GraphQL, WebSockets
+- **AI:** LLM integrations, RAG, AWS Bedrock, ChromaDB, AI agents, prompt engineering
+- **Data:** PostgreSQL, MySQL, MongoDB, SQL Server, Firebase, Redis
+- **Cloud & delivery:** AWS, Docker, Kubernetes, GitHub Actions, Jenkins, observability
+- **Testing:** Jest, Mocha, Cypress, API testing, TDD
 
-- 🧠 Core Languages: JavaScript, TypeScript, PHP, Python
+## Featured repositories
 
-- 🛠️ Frameworks & Tools: React.js, Next.js, Node.js, NestJS, Express, Docker, AWS.
+- [machine-setup](https://github.com/Aneal250/machine-setup) — Checklist app for tracking apps and tools when setting up a new machine.
+- [starwars-react-app](https://github.com/Aneal250/starwars-react-app) — React project exploring the Star Wars universe.
+- [TodoApp_TypeScript](https://github.com/Aneal250/TodoApp_TypeScript) — Todo app built with TypeScript.
 
-- 👥 Soft Skills: Strong communication, team collaboration, and mentorship.
+## Experience highlights
 
-- 💡 Personal Traits: Fast learner, innovative thinker, solution-driven.
+- Improved frontend and API performance by approximately **25%** through optimization and monitoring.
+- Mentored **50+ developers** and helped deliver **10+** production-ready bootcamp projects.
+- Improved SEO performance by **50%** and reduced deployment time by **30%** through Docker containerization.
+- Built and maintained services contributing to approximately **99.8% uptime**.
 
-- ⚽ Fun Fact: Loyal Barcelona fan & passionate about football.
+## GitHub stats
 
-- 📚 Always Learning: Practicing Data Structures & Algorithms in my free time.
+<div align="center">
 
-- :mailbox: Connect with me via LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Aneal250-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anaelennaemeka/)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aneal250&show_icons=true&hide_title=true&include_all_commits=true&theme=transparent" alt="GitHub profile statistics for Aneal250" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal250&layout=compact&theme=transparent" alt="Most used programming languages for Aneal250" />
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <!-- Core Web -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-
-  <!-- Frontend Frameworks -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby" alt="Gatsby" width="40" height="40"/>&nbsp;
-
-  <!-- Styling -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-
-  <!-- State Management -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-
-  <!-- Backend & APIs -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-
-  <!-- Databases -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-
-  <!-- DevOps & Tools -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+## Connect
 
----
+I’m open to conversations about full-stack engineering, AI applications, and cloud-native systems.
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aneal250&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal250&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- [LinkedIn](https://www.linkedin.com/in/anaelennaemeka/)
+- [Email](mailto:anaelennaemeka@gmail.com)
+- [Portfolio](https://www.nnaemekaanaele.me/)
